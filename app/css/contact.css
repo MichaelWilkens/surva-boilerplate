@@ -1,0 +1,19 @@
+#contact-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}
+
+.contact-phone-image {
+    height: 200px;
+    display: block;
+}
+
+.link-to-homepage {
+    display: block;
+    width: 300px;
+    padding: 10px 40px;
+    background-color: #bbb;
+    border-radius: 10px;
+    margin-top: 200px;
+}

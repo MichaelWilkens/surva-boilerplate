@@ -1,0 +1,19 @@
+#homepage-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}
+
+.homepage-tree-image {
+    height: 500px;
+    display: block;
+}
+
+.link-to-contact-page {
+    display: block;
+    width: 300px;
+    padding: 10px 40px;
+    background-color: #bbb;
+    border-radius: 10px;
+    margin-top: 200px;
+}
